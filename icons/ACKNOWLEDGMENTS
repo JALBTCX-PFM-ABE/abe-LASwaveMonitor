@@ -1,0 +1,38 @@
+<center><br>This program was built using some, if not all, of the following Open Source or public domain resources:
+<br><br></center>
+<ul>
+<li><a href="http://beecrypt.sourceforge.net">BeeCrypt</a> - Cryptography library</li>
+<li><a href="http://www.gdal.org">GDAL</a> - Geospatial Data Abstraction Library</li>
+<li><a href=https://www.leidos.com/maritime/gsf>GSF</a> - Generic Sensor Format Library</li>
+<li><a href=http://www.hdfgroup.org/HDF5>HDF5</a> - Heirarchical Data Format library</li>
+<li><a href=http://www.ijg.org>libjpeg</a> - JPEG library</li>
+<li><a href=http://rapidlasso.com>LASlib</a> - LAS I/O library</li>
+<li><a href=http://www.opennavsurf.org>OpenNS</a> - Open Navigation Surface API</li>
+<li><a href=http://trac.osgeo.org/proj>PROJ.4</a> - Cartographic Projections Library</li>
+<li><a href=http://qt-project.org>Qt</a> - A cross-platform application and UI framework</li>
+<li><a href=http://shapelib.maptools.org>SHAPELIB</a> - Shapefile C Library</li>
+<li><a href=https://sqlite.org>SQLite</a> - SQL database engine API</li>
+<li><a href=http://xmlsoft.org>XML2</a> - XML C parser</li>
+<li><a href=http://www.zlib.net>ZLIB</a> - Compression Library</li>
+<li><a href=http://tango.freedesktop.org/Tango_Icon_Library>Tango Icon Library</a> - Icon set for the Tango Desktop Project</li>
+<li><a href=http://www.smashingmagazine.com/2009/05/20/flavour-extended-the-ultimate-icon-set-for-web-designers>Flavour Extended</a> - Icon set by Oliver Twardowski</li>
+<li><a href=http://ddrdark.deviantart.com/art/WIP-32px-mania-iconset-106090029>32pxmania</a> - Icon set by DDrDark</li>
+</ul><br>
+<ul>
+<li>BeeCrypt, GSF, LASlib, Qt, and SHAPELIB are licensed under the <a href=http://www.gnu.org/copyleft/lesser.html>GNU LGPL</a></li>
+<li>GDAL is licensed under an X/MIT style open source license</li>
+<li>libjpeg, OpenNS, ZLIB, and HDF5 are licensed under their own open source licenses</li>
+<li>PROJ.4 and XML2 are licensed under an MIT open source license</li>
+<li>SQLite and the Tango Icon Set are released in the public domain</li>
+<li>Flavour Extended is free for any private or commercial use without any restrictions</li>
+<li>32pxmania is free for personal and commercial use with the proviso that the icon set can not be sold as a standalone icon set</li>
+</ul><br><br>
+In addition to the above APIs and icon libraries, a few of the ABE programs also shell external applications.  Specifically:<br>
+<ul>
+<li><a href=https://www.mozilla.org/en-US/firefox>Firefox</a> - A Linux/Windows web browser</li>
+<li><a href=http://windows.microsoft.com/en-us/internet-explorer/download-ie>Internet Explorer</a> - A Windows web browser</li>
+<li><a href=https://www.google.com/earth>Google Earth</a> - Virtual globe, map, and geographical information program</li>
+</ul><br><br>
+Many thanks to the authors of these and all of their supporting projects.  For more information on 
+each project please visit their websites using the links above.<br>
+<center>Jan C. Depner<br><br></center>
